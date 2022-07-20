@@ -2,7 +2,7 @@ const capString = require('./capString.js');
 
 test('should return 1st letter capitalized', () => {
   // Arrange
-  const str = 'sidney';
+  const str = 'milen';
 
   // Act
   const capped = capString(str);
